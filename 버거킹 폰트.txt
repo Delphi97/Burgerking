@@ -1,0 +1,43 @@
+@font-face {
+    font-family: HGG;
+    font-weight: 400;
+    font-style: normal;
+    src: local("HGGGothicssi_Pro_60g"),url(../fonts/HGGGothicssi_Pro_60g.983776de.woff) format("woff"),url(../fonts/HGGGothicssi_Pro_60g.33aafe58.ttf) format("truetype"),url(../fonts/HGGGothicssi_Pro_60g.33aafe58.ttf) format("opentype")
+}
+
+@font-face {
+    font-family: HGG;
+    font-weight: 700;
+    font-style: normal;
+    src: local("HGGGothicssi_Pro_99g"),url(../fonts/HGGGothicssi_Pro_99g.9b35a5d0.woff) format("woff"),url(../fonts/HGGGothicssi_Pro_99g.64d7ce08.ttf) format("truetype"),url(../fonts/HGGGothicssi_Pro_99g.60beeccf.otf) format("opentype")
+}
+
+@font-face {
+    font-family: flame;
+    font-weight: 400;
+    src: url(../fonts/Flame-Regular.e23e5825.woff2) format("woff2"),url(../fonts/Flame-Regular.dda23f75.woff) format("woff")
+}
+
+@font-face {
+    font-family: flame;
+    font-weight: 600;
+    src: url(../fonts/Flame-Bold.665f4d72.woff2) format("woff2"),url(../fonts/Flame-Bold.7b9431f9.woff) format("woff")
+}
+
+@font-face {
+    font-family: dabanggu;
+    font-weight: 400;
+    src: url(../fonts/Typo_DabangguB.16840f6f.woff2) format("woff2"),url(../fonts/Typo_DabangguB.1257813f.woff) format("woff")
+}
+
+@font-face {
+    font-family: SDGothic;
+    font-weight: 400;
+    src: url(../fonts/SDGothicNeoRound-fSb.694b1232.woff2) format("woff2"),url(../fonts/SDGothicNeoRound-fSb.63ca71c1.woff) format("woff")
+}
+
+@font-face {
+    font-family: SDGothic;
+    font-weight: 600;
+    src: url(../fonts/SDGothicNeoRound-hEb.a5bb0953.woff2) format("woff2"),url(../fonts/SDGothicNeoRound-hEb.39c6b09e.woff) format("woff")
+}
